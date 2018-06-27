@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_supplier_options">
+        <item>@string/supplier_unknown</item>
+        <item>@string/supplier_oxford</item>
+        <item>@string/supplier_cambridge</item>
+        <item>@string/supplier_penguin</item>
+        <item>@string/supplier_macmillan</item>
+    </string-array>
+</resources>

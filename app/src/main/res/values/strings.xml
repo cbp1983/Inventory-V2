@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="item">Item</string>
+    <string name="supplier_details">Supplier details</string>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="supplier_phone">Supplier phone number</string>
+    <string name="call_supplier">Call supplier</string>
+
+    <string name="supplier_unknown">Unknown</string>
+    <string name="supplier_oxford">Oxford University Press</string>
+    <string name="supplier_cambridge">Cambridge University Press</string>
+    <string name="supplier_penguin">Penguin Random House</string>
+    <string name="supplier_macmillan">MacMillan</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <string name="action_add_a_supplier">Add a supplier</string>
+    <string name="action_delete_items">Delete all data</string>
+
+    <string name="editor_activity_title">Add a book</string>
+
+    <string name="empty_title">There are no results to show</string>
+    <string name="empty_subtitle">Start adding some books to the database!</string>
+
+    <string name="editor_activity_title_new_book">Add a book</string>
+    <string name="editor_activity_title_edit_book">Edit book</string>
+
+    <string name="editor_insert_book_failed">There was an error inserting your book data.</string>
+    <string name="editor_insert_book_successful">Book data successfully added to database!</string>
+
+    <string name="editor_delete_book_failed">The book could not be deleted for some reason.</string>
+    <string name="editor_delete_book_successful">The book was successfully deleted!</string>
+
+    <string name="unsaved_changes_dialog_msg">You have unsaved changes. Are you sure you wish to exit?</string>
+    <string name="discard">Discard changes</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="name_missing">The name of the book is required!</string>
+    <string name="phone_missing">The phone number of the book supplier is required!</string>
+
+    <string name="sale">Sale</string>
+    <string name="out_of_stock">This book is out of stock!</string>
+</resources>
